@@ -1,4 +1,4 @@
-# Vrinda Strore Annual Report 2022 
+# Vrinda Store Annual Report 2022 
 * Objective : Vrinda Store wants to create an annual sales report to understand the target customer and area of growth of year 2022. 
 
 # Client Requierements :
