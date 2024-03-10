@@ -1,5 +1,7 @@
 # Vrinda Store Annual Report 2022 
-* Objective : Vrinda Store wants to create an annual sales report to understand the target customer and area of growth of year 2022. 
+* Objective : Vrinda Store wants to create an annual sales report to understand the target customer and area of growth of year 2022.
+
+* Tools : MS Excel, Pivot Table, Power Query, Charts For Data Visualization 
 
 # Client Requierements :
 1. Compare Sales and Orders using single chart
